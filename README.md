@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href=(https://my-team-page-master-devchallenges.netlify.app/)>
+    <a href="https://my-team-page-master-devchallenges.netlify.app">
       Demo
     </a>
     <span> | </span>
