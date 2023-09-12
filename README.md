@@ -58,8 +58,8 @@
 - 
 ### Screenshots
 
-<img src="img/Screen Shot Desktop.png">
-<img src="img/Screen Shot mobile.png">
+<img src="Images/Desktop Screen Shot.png">
+<img src="Images/Mobile Screen Shot.png">
 
 ## Features
 
