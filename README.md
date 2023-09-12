@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@SAM7858]("https://github.com/SAM7858"})
+- GitHub - [@SAM7858]("https://github.com/SAM7858"})
 - Discord - (sam7858)
