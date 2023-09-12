@@ -55,7 +55,7 @@
 - Flexbox
 - Grid
 - Mobile-first workflow
-- 
+  
 ### Screenshots
 
 <img src="Images/Desktop Screen Shot.png">
