@@ -191,7 +191,7 @@ body {
     /* heading  */
     .about_container {
         display: flex;
-        column-gap: 20%;
+        column-gap: 30%;
         margin-bottom: 2rem;
     }
 
